@@ -1,2 +1,3 @@
 Welcome to avtaar source code management
-develope
+Design the code
+Work on HTML mockup 
