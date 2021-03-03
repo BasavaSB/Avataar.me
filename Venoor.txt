@@ -1,3 +1,9 @@
 Welcome to avtaar source code management
 Design the code
 Work on HTML mockup 
+Integration dev done
+Tested 
+Deployed
+
+
+Thank you:))
